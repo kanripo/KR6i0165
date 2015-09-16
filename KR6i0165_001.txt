@@ -1,12 +1,12 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:38.727296
+#+DATE: 2015-08-30 20:11:39.191715
 #+TITLE: 佛說申日經
 #+PROPERTY: CBETA_ID T14n0535
 #+PROPERTY: ID KR6i0165
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 535
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0165_T_000-0817c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0165_T_001-0817c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
@@ -15,9 +15,8 @@
 ¶
 ¶
 ¶
-No.535[Nos.534,536]¶
-
- 佛說申日經(開元錄中無法護譯，恐是支謙誤為法護)¶
+No. 535 [Nos. 534, 536]¶
+佛說申日經(開元錄中無法護譯，恐是支謙誤為法護)¶
 ¶
 西晉月氏三藏竺法護譯¶
 
